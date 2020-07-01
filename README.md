@@ -15,6 +15,12 @@ This project has all valid configurations and modules needed to start without pr
 npm install
 ```
 
+## Project update (ASA)
+```
+npm update
+npm upgrade
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
