@@ -15,7 +15,7 @@ This project has all valid configurations and modules needed to start without pr
 npm install
 ```
 
-## Project update (ASA)
+## Project update (ASAP)
 ```
 npm update
 npm upgrade
